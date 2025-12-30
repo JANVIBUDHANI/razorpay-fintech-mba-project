@@ -1,0 +1,7 @@
+Parameter,Razorpay,Paytm,PhonePe
+Primary Focus,Merchant-focused payment gateway,Consumer wallet & merchant payments,UPI-based consumer payments
+Target Users,"Startups, SMEs, Enterprises",Consumers and Merchants,Consumers & Small Merchants
+Payment Modes Supported,"UPI, Cards, Net Banking, Wallets","Wallet, UPI, Cards","UPI, Cards"
+Technology Model,"API-first, Cloud-based",Wallet-centric platform,UPI-centric platform
+Security Standards,"PCI-DSS, Tokenization, AI-based Fraud Detection","PCI-DSS, OTP authentication",Bank-level UPI security
+International Payments,Yes,Limited,No
